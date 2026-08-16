@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Nomsa0304/Nomsa0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Nomsa. A Data Analyst with experience across research, operations, business analytics, query optimization and database creation.
 
-Here are some ideas to get you started:
+- Cleaning, validating, and modeling data using Python, R, and SQL.
+- Building dashboards on Tableau, Power BI, and R Shiny.
+- Applying statistical methods for hypothesis testing and trend analysis.
+- Automating data workflows to improve efficiency and accuracy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Nomsa0304?tab=repositories).
+
+## 🛠️ Tools
+
+- **Language:** Python, R, SQL
+- **Visualization:** Tableau, Power BI, and R Shiny
+- **Other:** Excel, Overleaf
+
+## 📎 Certifications
+
+- Tableau (Data Analyst)
+- SQL
+
+## 🎓 Education
+
+- MS Applied Data Science — Clarkson University *(in progress)*
+- MSc Statistics — Botswana International University of Science and Technology
+- BSc Statistics and Operations Research — National University of Science and Technology
+
+## 📫 Connect with Me
+
+- LinkedIn: [www.linkedin.com/in/nomsa-nyalugwe-b1a08714a]
